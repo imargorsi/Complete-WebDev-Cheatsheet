@@ -227,3 +227,6 @@ There are many ways to deploy your website. Here are a few:
 - [GitHub Pages](https://pages.github.com/)
 
 `Add your own thoughts on how to deploy and best practices!`
+
+--- 
+> This page is still a work in progress, give your own thoughts on how to improve it!
