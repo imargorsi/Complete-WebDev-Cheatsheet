@@ -137,6 +137,18 @@ Here's Tailwind's [Official Guide](https://tailwindcss.com/docs/responsive-desig
 #### Semantic HTML Tags.
 Make sure to use semantic HTML tags. Instead of `<div>`, use `<header>`, `<footer>`, `<main>`, etc. This makes it easier for search engines to understand the content of your website. Here's a [cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html/cheatsheet). 
 
+#### Component Resources:
+Since you now know how to build the layout, you can start building components. You can use these resources for faster development:
+- https://www.reactbits.dev
+- https://tailwindflex.com
+- https://ui.aceternity.com/components
+- https://magicui.design 
+- https://codyhouse.co 
+- https://uiverse.io/elements 
+- https://mantine.dev
+
+Note that some of them may or may not be responsive, it's up to you to use them.
+
 ---
 
 ## 4. Styling the layout (with responsiveness)
